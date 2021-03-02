@@ -60,7 +60,7 @@ nav a{
     margin: 110px;
     }
 body{
-    background-image: url(images/WhatsApp Image 2021-03-02 at 12.32.50 PM (1).jpg);
+    background-image: url(images/background.png);
 }
 .card{
     width: 260px;
@@ -85,26 +85,26 @@ body{
 .card2{
     color: white;
     font-size: 25px;
-    background-image: url(images/WhatsApp Image 2021-03-02 at 12.32.49 PM (1).jpeg);
+    background-image: url(images/tourist.jpg);
 }
 
 .card3{
     font-size: 25px;
     color:white;
-    background-image: url(images/WhatsApp Image 2021-03-02 at 12.32.49 PM.jpeg);
+    background-image: url(images/species.jpg);
 }
 .card4{
     font-size: 25px;
     color: white;
-    background-image: url(images/WhatsApp Image 2021-03-02 at 12.32.48 PM.jpeg);
+    background-image: url(images/wild.png);
 }
 .card5{
     font-size: 25px;
     color: white;
-    background-image: url(images/WhatsApp Image 2021-03-02 at 12.32.48 PM (2).jpeg);
+    background-image: url(images/flowers.jpg);
 }
 .card6{
     font-size: 25px;
     color: white;
-    background-image: url(images/WhatsApp Image 2021-03-02 at 12.32.48 PM (1).jpeg);
+    background-image: url(images/culture.jpg);
 }
